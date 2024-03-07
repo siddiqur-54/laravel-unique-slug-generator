@@ -6,7 +6,7 @@ A simple but beautiful unique slug generator for Laravel eloquent model.
 ## Installation
 
 ```sh
-composer require maniruzzaman/laravel-unique-slug
+composer require siddiqur/laravel-unique-slug
 ```
 
 ## Configuration
@@ -114,7 +114,7 @@ public function generate(
 
 #### Publish configuration
 ```sh
-php artisan vendor:publish akash/laravel-unique-slug
+php artisan vendor:publish siddiqur/laravel-unique-slug
 ```
 
 #### Configurations
